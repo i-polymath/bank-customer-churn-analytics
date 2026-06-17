@@ -35,7 +35,7 @@ This project illustrates a typical analytics workflow in which Python is used to
 
 ### Transaction Dataset
 
-* Processed six months transaction files
+* Processed seven months transaction files
 * Standardized transaction structures and fields
 * Categorized transactions using rule-based mappings
 * Identified customer-initiated activities
