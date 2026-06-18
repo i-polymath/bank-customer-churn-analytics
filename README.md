@@ -6,7 +6,9 @@ This project demonstrates the preparation and transformation of anonymized banki
 
 The project combines customer profile information, churn records, loan activity, and transactional data into structured datasets that can be consumed by Power BI for customer analytics, segmentation, and performance reporting.
 
-The workflow focuses on transforming raw operational data into business-ready information through data cleaning, feature engineering, enrichment, categorization, and aggregation.
+The workflow focuses on transforming raw operational data into business-ready information through data cleaning, feature engineering, enrichment, categorization, and aggregation. 
+
+Explore the [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTExNTM0MDgtZTdlZC00MzQyLTk5YzctZjY1YmNhZjE0ODVlIiwidCI6ImQ4YWJjM2VkLWE2ZTEtNGUzNi1iMGFhLTQ1NzA3Zjc5M2YxMiJ9)
 
 ---
 
